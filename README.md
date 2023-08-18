@@ -48,4 +48,3 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 - [ ] Probabilidad y estadísticas
 
 
-![Texto alternativo que describe la imagen](www.argentina.gob.ar/ruta-de-la-imagen.jpg "Texto epígrafe de la imagen")
