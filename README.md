@@ -35,7 +35,7 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 
 
 
-# Materias Aprobadas
+## Materias
 - [X] AM I
 - [X] AM II
 - [X] Algebra
