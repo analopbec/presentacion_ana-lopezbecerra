@@ -1,6 +1,7 @@
 # Analía Lopez Becerra
 ## Presentación personal
-Mi nombre es *_Analía_*, pero todos me dicen ***_Ana_***. Tengo 33 años, estoy casada y tengo 2 hijos
+Mi nombre es *_Analía_*, pero todos me dicen ***_Ana_***. 
+Tengo 33 años, estoy casada y tengo 2 hermosos hijos.
 
 ![Esta soy yo](https://github.com/analopbec/presentacion/blob/main/img/foto.jpg.jpeg)
 
