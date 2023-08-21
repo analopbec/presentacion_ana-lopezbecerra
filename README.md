@@ -1,6 +1,7 @@
 # Analía Lopez Becerra
 ## Presentación personal
 Mi nombre es *_Analía_*, pero todos me dicen ***_Ana_***. 
+
 Tengo 33 años, estoy casada y tengo 2 hermosos hijos.
 
 ![Esta soy yo](https://github.com/analopbec/presentacion/blob/main/img/foto.jpg.jpeg)
@@ -22,7 +23,7 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 
 
 
-## Series preferidas
+## Serie preferida
 * Grey's Anatomy (indiscutiblemente)
 
 
@@ -38,7 +39,7 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 
 
 
-## Materias
+## Materias de la carrera
 - [X] AM I
 - [X] AM II
 - [X] Algebra
@@ -50,4 +51,6 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 - [ ] CTS
 - [ ] Probabilidad y estadísticas
 
+
+Si queres contactarte conmigo, mi correo es [analialopezbecerra@live.com.ar](mailto:analialopezbecerra@live.com.ar)
 
