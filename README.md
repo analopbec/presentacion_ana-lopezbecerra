@@ -2,6 +2,8 @@
 ## Presentación personal
 Mi nombre es *_Analía_*, pero todos me dicen ***_Ana_***. 
 
+![Esta soy yo](https://github.com/analopbec/presentacion/blob/main/img/foto.jpg.jpeg)
+
 Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que me conozcas un poco más...
 
 
