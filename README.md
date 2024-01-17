@@ -45,11 +45,11 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 - [X] Algebra
 - [X] Introducción a la programación
 - [X] Economia
-- [ ] Arquitectura de computadoras I
-- [ ] Paradigmas de programación
-- [ ] Estructuras Discretas
-- [ ] CTS
-- [ ] Probabilidad y estadísticas
+- [x] Arquitectura de computadoras I
+- [x] Paradigmas de programación
+- [x] Estructuras Discretas
+- [x] CTS
+- [x] Probabilidad y estadísticas
 
 
 Si queres contactarte conmigo, mi correo es [analialopezbecerra@live.com.ar](mailto:analialopezbecerra@live.com.ar)
