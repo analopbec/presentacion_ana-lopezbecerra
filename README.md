@@ -2,7 +2,7 @@
 ## Presentación personal
 Mi nombre es *_Analía_*, pero todos me dicen ***_Ana_***. 
 
-Tengo 33 años, estoy casada y tengo 2 hermosos hijos.
+Tengo 34 años, estoy casada y tengo 2 hermosos hijos.
 
 ![Esta soy yo](https://github.com/analopbec/presentacion/blob/main/img/foto.jpg.jpeg)
 
@@ -17,9 +17,9 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 
  
 ## Actividades favoritas
-* Programar
 * Romperme la cabeza armando querys complicados
 * Pasar tiempo con mi familia
+* Programar
 
 
 
@@ -32,7 +32,7 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
   #### Programación
   * Python
   * HTML
-  * Javascript (gracias a paradigmas de la mano del profe Gerardo)
+  * Javascript
   #### Datos
   * SQL (FAN)
   * R (aunque ya me olvide)
