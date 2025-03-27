@@ -50,7 +50,16 @@ Te dejo mi [linkedin](https://www.linkedin.com/in/analialopezbecerra/) para que 
 - [x] Estructuras Discretas
 - [x] CTS
 - [x] Probabilidad y estadísticas
-
+- [x] Bases de datos I
+- [x] Ingenieria de Software I
+- [x] Ingles I
+- [x] Ingles II
+- [x] Algoritmos y programación
+- [x] Arquitectura de computadoras II
+- [x] Sistemas Operativos I
+- [ ] Bases de datos II (en curso)
+- [ ] Sistemas Operativos II (en curso)
+- [ ] Laboratorio de programación y lenguajes (en curso)
 
 Si queres contactarte conmigo, mi correo es [analialopezbecerra@live.com.ar](mailto:analialopezbecerra@live.com.ar)
 
